@@ -1,0 +1,16 @@
+531a9a8|2024-02-09|Pavel Veretennikov|fix: address some new DRC issues|False|True
+118c69f|2024-01-12|Pavel Veretennikov|feat: thicker 5V track in the middle|False|True
+01b0bf6|2023-11-12|Pavels Veretennikovs|fix: properly tag power pins on F1|True|False
+7840e18|2023-11-08|Pavels Veretennikovs|feat: bigger pads and thermal relief for MAX2040|False|True
+e5b4e8c|2023-11-08|Pavels Veretennikovs|feat: add F1 PPTC for 3.3V rail|True|True
+67c9136|2023-10-30|Pavels Veretennikovs|fix(k7): disable DRC/ERC violations we can't fix or are bugs|False|True
+a5e2bb1|2023-10-29|Pavels Veretennikovs|fix: add dummy parent footprints where missing|False|True
+1d915d9|2023-10-29|Pavels Veretennikovs|feat: remove J4, put back R7,R13 sound resistors|True|True
+4d98c01|2023-10-29|Pavels Veretennikovs|feat: add imu/max silkscreen, fix 3D models|False|True
+d20a7c2|2023-10-29|Pavels Veretennikovs|feat: update to Kicad7, put back C2,C3|True|True
+737577e|2023-04-08|Pavels Veretennikovs|feat(mb): replace SW1 with DIP variant, remove J51|True|True
+bf7a313|2023-03-23|Pavels Veretennikovs|feat(mb): add pin header for RPi force power|True|True
+b7b825b|2023-03-21|Pavels Veretennikovs|fix(mb): swap pico GP4,5 with GP8,9|True|True
+cd57367|2023-03-07|Pavels Veretennikovs|chore: sync PCB with Schema, mostly adds LCSC MFNs|False|True
+78bfdbb|2023-03-07|Pavels Veretennikovs|fix: R11 notation 53k6|True|True
+9f61b34|2023-02-17|Pavels Veretennikovs|fix(erc): remove unconnected SDA, SDL from WT901|True|False
